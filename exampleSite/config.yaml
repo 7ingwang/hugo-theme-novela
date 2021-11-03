@@ -1,6 +1,7 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
 title: "Hugo Novela"
+theme: novela
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
